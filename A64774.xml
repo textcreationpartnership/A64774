@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Roman Catholick converted, or, A testimony against the imagined purgatory with an exhortation to them of the Church of Rome to break off from their idols and images, and to believe in the light of Christ Jesus, who lighteth every man that cometh into the world / by one, who though formerly of them, is now made able through believing in the light of Christ to give testimony against their purgatory, idols, images, and all their dark inventions, John Vaughton.</title>
+            <author>Vaughton, John, 1644-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64774</idno>
+            <idno type="STC">Wing V159</idno>
+            <idno type="STC">ESTC R32918</idno>
+            <idno type="EEBO-CITATION">12782483</idno>
+            <idno type="OCLC">ocm 12782483</idno>
+            <idno type="VID">93839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93839)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1538:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Roman Catholick converted, or, A testimony against the imagined purgatory with an exhortation to them of the Church of Rome to break off from their idols and images, and to believe in the light of Christ Jesus, who lighteth every man that cometh into the world / by one, who though formerly of them, is now made able through believing in the light of Christ to give testimony against their purgatory, idols, images, and all their dark inventions, John Vaughton.</title>
+                  <author>Vaughton, John, 1644-1712.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 9.</note>
+                  <note>Imperfect: t.p. stained.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Purgatory.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93839:1"/>
+            <pb facs="tcp:93839:1" rendition="simple:additions"/>
+            <p>THE Roman-Catholick CONVERTED: OR A Teſtimony againſt the <hi>Papiſts</hi> Imagined PURGATORY. With an EXHORTATION to them of the <hi>CH<g ref="char:V">Ʋ</g>RCH</hi> of <hi>ROME,</hi> To break off from their <hi>Idols</hi> and <hi>Images,</hi> and to be<g ref="char:EOLhyphen"/>lieve in the LIGHT of <hi>Chriſt Jeſus,</hi> who lighteth every man that cometh into the World.</p>
+            <q>
+               <p>By one, who though formerly of them, is now made able through believing in the Light of Chriſt to give Teſtimony againſt their <hi>Purgatory, Idols, Images,</hi> and all their dark <hi>Inven<g ref="char:EOLhyphen"/>tions,</hi>
+               </p>
+               <bibl>
+                  <hi>John Vaughton.</hi>
+               </bibl>
+            </q>
+            <p>
+               <q>He that feareth Man, ſhall have a Fall; but whoſo putteth his Truſt in the Lord, is without Danger,
+<bibl>Prov. 24.25.</bibl>
+               </q>
+               <q>They have no Reſt day nor night, who worſhip the Beaſt &amp; his Image, and whoſoever receiveth the Print of his Name,
+<bibl>Rev. 14.11.</bibl>
+               </q>
+            </p>
+            <p>Printed in the Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93839:2"/>
+            <pb n="1" facs="tcp:93839:2"/>
+            <head>THE Roman-Catholick CONVERTED.</head>
+            <p>WO be unto thoſe that come not forth of <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> and break not off from their Graven I<g ref="char:EOLhyphen"/>mages, and ceaſe not from Man whoſe Breath is in his Noſtrils, and that live in Rebellion againſt the Lord God of Heaven and Earth; who gave unto Man Life, Breath and Being, and hath lengthned out a Day of his tender Viſitation unto the Sons and Daughters of men, whom in no wiſe he would have to periſh in their Sins; but his Will is their Sanctification: Now none can be ſanctified, but by Obedience to the Will of God; and this is the Will of God, That men believe on him whom God the Father hath ſent a Light into the World, as Chriſt Jeſus ſaid, <hi>I am come a Light into the World; and he that believes in me, ſhall not abide in Dark<g ref="char:EOLhyphen"/>neſs, but ſhall have the Light of Life;</hi> Glory, Honour and Everlaſting Renown be unto the Lord God of Life for evermore, who hath cauſed his Light to ſhine into the Hearts of a Remnant, and hath given them the Knowledge of him<g ref="char:EOLhyphen"/>ſelf in and by the Shinings of his own Light; and all the Na<g ref="char:EOLhyphen"/>tions of the World that are ſaved, muſt walk in the Light of the Lord Jeſus; for Cleanſing from Sin is known as there is a walk<g ref="char:EOLhyphen"/>ing in the Light of Jeſus (and no where elſe) that's my Teſtimo<g ref="char:EOLhyphen"/>ny, as I have received it of the Lord. And therefore unto you that are of the <hi>Church of Rome,</hi> and expect Salvation as you are Members thereof, this Word is in my Heart from the Lord unto you all; Deſtruction, and not Salvation, will be your Portion, if you come not to believe in the Light of Chriſt Jeſus, as it appears in you, manifeſting the Evil of your Doings, and hath
+<pb n="2" facs="tcp:93839:3"/>and doth often ſtrive with you, and would gather you, and bring you out of your own Wayes and Inventions, which the Devil and his Miniſters, Emiſſaries and Agents have ſet up, and have cauſed all that have believed them to bow unto the Image that they have ſet up, and have cauſed all them who have believed their Report, to receive that for Chriſt which is but a Wafer, and made by the Hands, which are Duſt, and muſt return to the Duſt; and this is the Work of your <hi>Pope, Biſhops</hi> and <hi>Prieſts,</hi> whom you call <hi>Fathers,</hi> and <hi>Father of Fathers;</hi> and ſo, you own your ſelves to be the Chil<g ref="char:EOLhyphen"/>dren of them who know not God nor Chriſt; but have ſet up a <hi>Wafer,</hi> and called it Chriſt's Body, Fleſh and Blood, and Compel People to receive it as ſuch; and yet they that recei<g ref="char:EOLhyphen"/>ved it, never knew cleanſing from Sin by it, nor never will: And therefore Wo be unto you Prieſts and People, which are Falling down, Bowing and Worſhipping that for God which is not God, but the Works of your own Hands: Behold and take notice of it, You ſhall periſh, if you Repent not; and your Croſſes of Wood and Stone, though never ſo finely gilded, nay, though they be made of the Gold it ſelf, and your Images, though never ſo finely drawn by the Art of the <hi>Limner,</hi> Bow ye and Creep ye never ſo oft unto them, nor yet your Holy Aſhes (as you call them), nor yet your Holy Wa<g ref="char:EOLhyphen"/>ter (as you call it), ſhall be able to deliver you in the Day of the Indignation of the Lord, which certainly ſhall be pour<g ref="char:EOLhyphen"/>ed forth upon you: For your Water, which you have made and waſhed People withal, its not the <hi>Water of Life,</hi> and therefore it anſwers not the End which you purpoſe it for, which ſay you, <hi>It hath Power, or there is Vertue in it to drive away Evil Spirits from thoſe who are ſprinkled with it;</hi> and therein you are found to be Lyars; for the Evil Spirit works and bears rule, both in you that make the Water, and ſprin<g ref="char:EOLhyphen"/>kle your ſelves and others with it.</p>
+            <p>And be it known unto you Prieſts and Falſe Prophets, who, as you ſay, <hi>have received Power to Abſolve from Sin thoſe that confeſs their Sins unto you, and do that Pennance you enjoyn them to:</hi> Behold you are found Lyars, by one who in dayes paſt, and years that are gone, Confeſt unto ſome of you, and did
+<pb n="3" facs="tcp:93839:3"/>thoſe things which you enjoyned him to do, in hopes thereby he might obtain Peace with the Lord: But behold, and take notice, I ſpeak the Truth, and Lye not; That notwithſtand<g ref="char:EOLhyphen"/>ing all your <hi>Abſolutions</hi> and <hi>Pennances,</hi> enjoyned by you, and by me performed, <hi>I was not Diſcharged from the Guilt that Sin being committed brought upon me;</hi> and in that Day God's holy pure Spirit did condemn me for thoſe Sins which I had committed, and which I had Confeſt to you, and which you had given me Abſolution for; and the Judgments of the Lord were then upon me, and his holy Spirit ſtrove with me; and many times there were ſtrong Cryes raiſed in me, <hi>That I might know Power over Sin, and that I might be ſet free from Sin:</hi> but in that Day I did not certainly know that it was the Lord that ſtrove with me, becauſe Darkneſs was over my Under<g ref="char:EOLhyphen"/>ſtanding; and though the true Light did ſhine in the Dark<g ref="char:EOLhyphen"/>neſs, yet the Darkneſs comprehended it not; and I being not turned from the Darkneſs to the Light, did not receive Power over my Sin: But in my Diſtreſs I went to you for Help, (but it was in vain) and when I found no Help from you, then did the Lord by his Spirit ſtrive with me, to bring me from amongſt you; and this that ſet my Sins in order be<g ref="char:EOLhyphen"/>fore me, ſome of you have called it the <hi>Devil;</hi> and ſome of you told me, <hi>I was in a Good Condition, and the Devil</hi> (you ſaid) <hi>was ſtriving to get me out of the Church;</hi> and ſaid you, <hi>You muſt believe as the Church believes; for out of your Church</hi> (ſay you) <hi>there is no Salvation.</hi> But I teſtifie for the Lord God that lives forever, and for the ſakes of thoſe who among you may in ſome meaſure be in a Senſe of that pure Principle of Life in themſelves, that ſtrives with them againſt Sin, and yet may depend upon Man, or your Church, which is made by Man, That whilſt they have any Dependency upon the Church, or any Man of your Church, let him be called <hi>Pope,</hi> or <hi>Prieſt,</hi> or what Name elſe ſoever it be, or whatever Practice he be found in, which the Spirit of the Lord leads him not un<g ref="char:EOLhyphen"/>to, he will not know Salvation, but Condemnation will be his or their Portion forever, if they repent not, and Forſake not the Evil of their Wayes, and it is not the Prieſt's ſaying, <hi>My Soul for thy Soul,</hi> will excuſe any in the Day of Account; for
+<pb n="4" facs="tcp:93839:4"/>the Lord is clear, and will be clear of the Blood of all men; and <hi>Man's Deſtruction is of himſelf, but his Help is in me,</hi> ſaith the Lord God that lives forever.</p>
+            <p>And therefore Wo unto, you <hi>Prieſts,</hi> the Blood of ma<g ref="char:EOLhyphen"/>ny of the People will be required at your Hands, becauſe through your dark Working and ſubtil Inventions you have allured many, and drawn many, and kept many from the Knowledge of the Lord, and ſpoken Peace unto many when the Lord has ſpoken Trouble; and you being ignorant of the Arm and Power of the Lord, that ſets the Soul free from Sin, have invented or imagined a <hi>Purgatory</hi> after Death, which ſay you, <hi>People whoſe Sins are not done away here, muſt be done a<g ref="char:EOLhyphen"/>way in</hi> Purgatory, <hi>which</hi> Purgatory (ſay you) <hi>is a Place of Fire.</hi> And O you Prieſts, what is the Reaſon you have no more Love to People who have ſo much Confidence in you, and who confeſs unto their Dying Day unto you, and as you make them believe, <hi>you have Power to Abſolve all their Sins,</hi> and yet you are ſo Cruel and ſo Hard hearted unto them, that you leave a Part of their Sins unpardoned and unremitted, to be done away in <hi>Purgatory?</hi> (A Cheat indeed!) Is not one Reaſon that may be given for it, <hi>That you may have a Gift gi<g ref="char:EOLhyphen"/>ven to your Church, that you may ſay Maſs for their Souls ma<g ref="char:EOLhyphen"/>ny years after?</hi> And how do you know who they are that go to <hi>Purgatory?</hi> But bleſſed be the Name of the Lord that lives forever, who has opened the Eyes of a Remnant to ſee over and beyond all your dark Inventions and Imaginations; and the Lord has and will open the Eyes of Thouſands in this Na<g ref="char:EOLhyphen"/>tion, and in other Nations, who are and ſhall be gathered from amongſt you, and ſhall give Teſtimony to the Arm and Power of the Lord God of Life, and in the Strength thereof ſhall be able to offer up their Lives, if the Lord require it of them, in Teſtimony to his Ancient Way and Holy Path, which was before your dark Inventions were, and ſhall be when they are come to an End. For behold and take notice, they had a time of Riſing, and the Time of their Riſing is ſeen, and the Time of their Down fal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is ſeen alſo; for all your dark Inventions did riſe when the Apoſtacye t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red, when the Devil (the old Adverſary of Mankind) had drawn the Mind of man from the
+<pb n="5" facs="tcp:93839:4"/>Gift of God, from the Appearance of Chriſt within, which is the Saints Hope of Glory; and ſo led men into Imagina<g ref="char:EOLhyphen"/>tions and Inventions of Worſhips, out of the Spirit of God, and from the Life of Chriſt; and ſo men being gone from the Spirit, and out of the Life of Jeſus, imagined a Purgato<g ref="char:EOLhyphen"/>ry after Death, and ſet up Worſhips and Services contrary to the Worſhip that Chriſt Jeſus ſet up, and bore Teſtimony un<g ref="char:EOLhyphen"/>to, whoſe Worſhip was and is in the Spirit and in the Truth, which the Devil is out of, and has no part therein: Now they that have ſet up Worſhips and Services in their own Wills, and in their own Times, and have compelled People to bow there<g ref="char:EOLhyphen"/>unto, and have taken the Lives of thoſe who have been raiſed to bear Teſtimony againſt their Idolatries and Superſtitions; its manifeſt theſe are not of the Church of God, but of the Devil, who was a Murderer from the Beginning, who moved <hi>Cain</hi> to kill <hi>Abel</hi> his Brother: So you <hi>Papiſts,</hi> that Murder for Religion, ſee who is your Father, and what Stock you are of; and if in your Wills you Faſt and Pray, and at times Af<g ref="char:EOLhyphen"/>flict your Bodies with your own Doings, the Lord will not re<g ref="char:EOLhyphen"/>gard you for none of theſe things; for you are found Work<g ref="char:EOLhyphen"/>ers of Iniquity: Therefore be awakened unto Righteouſneſs, and turn your Minds inward to the Righteous Principle of God; <hi>For whatſoever may be known of God is manifeſted with<g ref="char:EOLhyphen"/>in man;</hi> for the Appearance of God is within; and he that formed the Mountains, and he that created the Winds, and maketh the Morning Darkneſs, and treadeth upon the High Places of the Earth, and ſheweth unto Man what his Thoughts are, the Lord God of Hoſts is his Name: Therefore fear ye before him, and dread his Holy Name, and break off from your Idols and Images, and from your own Inventions, and hearken unto him, in the inward of your Hearts, that ſhews you when you tell a Lye, and when you ſwear an Oath, and when you ſpeak Vain Words, and when you have been ſport<g ref="char:EOLhyphen"/>ing your ſelves in Pleaſures, and paſſing away your Times in Playes, that ſometimes after all theſe things meets with you, and ſometimes in the midſt of your Pleaſures cauſes Sadneſs of Heart; yea, and when you are from your Company, or when you are upon your Beds meets with you, and ſmites you in
+<pb n="6" facs="tcp:93839:5"/>your Conſciences, and reproves you for theſe things; Oh! my Cry is unto you, <hi>Turn you unto him that reproves;</hi> for if ever you come to know a laying down your Heads in Peace, when time in this World ſhall be no more, you muſt turn and depart from that which he reproves you for; for <hi>the Reproofs of God's Inſtruction is the Way to Life;</hi> and there is not ano<g ref="char:EOLhyphen"/>ther Way, now I know: Self has a Life in the Pleaſures that are in this World, but Self muſt be denyed by all that will be Diſciples of Jeſus; for Chriſt Jeſus has ſaid, <hi>He that will be my Diſciple, muſt deny himſelf, and take up his daily Croſs, and follow me:</hi> This Croſs of Chriſt is not made with Hands, but it is the Power of God, which ſeparates from the Evil that is in the World, and crucifies and mortifies the Luſt of the Fleſh, and leads out of the Pride of Life, which is not of the Father, but of this World; and this World paſſeth away, and the Glory of it. Therefore fear man no longer, whoſe Breath is in his Noſtrils; but fear and dread the Living God, who will give unto every man a Reward according to the Deeds done in the Body, whether they be Good or whether they be Evil; this was the Doctrine of Chriſt Jeſus, who preached himſelf the Light of the World: He ſaid to the <hi>Jews, If you believe not that I am he, you ſhall dye in your Sins, and whither I go you cannot come;</hi> this was Chriſt's Teſtimony to the Unbelieving <hi>Jews.</hi> Now <hi>Papiſts,</hi> what will you do? Will you believe Chriſt Jeſus, in whoſe Mouth was never Guile found? Or will you be<g ref="char:EOLhyphen"/>lieve your lying Prieſts, who tell you of a <hi>Purgatory</hi> after Death, which ſome of you muſt go into, &amp; ſtay a while there, and then go to Heaven afterwards, where Chriſt Jeſus is? lying Prieſts &amp; Deceivers, &amp; Murderers of Souls indeed, for ſo I in truth can call them; they have not known the Word of the Lord as a Fire in them, to burn up and to conſume their Sins and their Iniquities; and ſo being out of the Faith that purifies the Heart (on this ſide the Grave) have imagined a <hi>Purgatory</hi> after Death, notwith<g ref="char:EOLhyphen"/>ſtanding the Spirit of the Lord through his Faithful Servants in dayes paſt, hath given this Teſtimony, as its left upon Re<g ref="char:EOLhyphen"/>cord in the Holy Scriptures of Truth, that <hi>As the Tree falls, ſo it lies;</hi> and <hi>there's no Repentance in the Grave:</hi> So that it is evident, if man dyes in his Sins, where Chriſt is, thither he
+<pb n="7" facs="tcp:93839:5"/>cannot come: So the Gulf is fixed, ſo that no unclean thing can enter the Kingdom of God; and the Wicked, and all thoſe who forget God (or neglect to anſwer God in the Day of their Viſitation, but ſin out the Day of their Viſitation,) ſhall be turned into Hell, and the Lyar ſhall have his Portion in the Lake that burns with Fire and Brimſtone. Oh, the Redemp<g ref="char:EOLhyphen"/>tion of the Soul! its very precious; but its not your Bowings to your Altars, nor Praying to Saints or Angels, that can re<g ref="char:EOLhyphen"/>deem the Soul that has been in Death, or add any thing there<g ref="char:EOLhyphen"/>unto; if you ſhould offer a Thouſand Rams, or Ten Thou<g ref="char:EOLhyphen"/>ſand Rivers of Oyl, nay, if any of you ſhould give the Fruit of your Bodies for the Sin of your Souls, it will not avail: But the New Creature, it avails; the Life of Chriſt, it will avail; and the Life of Chriſt is the Light of men; and the Light ap<g ref="char:EOLhyphen"/>pears, and ſhines in all men, to diſcover and to make manifeſt unto all thoſe things that are reproved, and that is the Spirit of Truth in thy own Heart and in thy own Conſcience, O Man and O Woman, which convinces thee of Sin, and reproves thee for doing the thing that is Evil; Oh! turn ye at his Re<g ref="char:EOLhyphen"/>proofs; why will ye Dye? his Spirit will not alwayes ſtrive with Man; but it ſtrives at one time or another with every man, that every man might be left without Excuſe And this Cry has run often through me, <hi>O Man, ceaſe from thy own Inventions, and from thy own Imaginations, and let the Word of Truth have a Place in thee, that thou mayſt be ſanctified by it, and cleanſed from Sin by it, before thou go hence and ſee man no more:</hi> that is the Deſire of my Soul for you all, that have not ſinned out your Day; for there is no Repentance in the Grave; and if no Repentance in the Grave, then there is no Change nor no cleanſing from Sin. So away with your Ima<g ref="char:EOLhyphen"/>ginations of a <hi>Purgatory</hi> after Death; for the Lord is riſen, and has manifeſted, and is manifeſting his Ancient Power, which redeems the Soul out of all Evil on this ſide the Grave: And the Church is come and coming out of the Wilderneſs, lean<g ref="char:EOLhyphen"/>ing upon the Breaſt of her Beloved; and ſhe cryes, <hi>Draw me, and I will run after thee;</hi> and the Day haſtens in which her Glory ſhall be more and more ſeen, and none ſhall be able to
+<pb n="8" facs="tcp:93839:6"/>ecclipſe her Glory, but it ſhall dazle the Eyes of many Nati<g ref="char:EOLhyphen"/>ons, and many of the Sons and Daughters of men, whoſe Re<g ref="char:EOLhyphen"/>gion is now in the Darkneſs, and under the Shadow of Death, ſhall behold his Glory, and ſhall fear before him, who is our Strength, our Rock, and our Refuge, and the Stay of our Minds, and our ſure Hiding place in the Time of Storms, to whoſe Power belongs the Glory forever and for evermore, and not to the Beaſt and Falſe Prophet, for their Portion is the Lake that burns forever; and they that give their Strength to the Beaſt and Falſe Prophet, and receive his Mark in their Right-hand or Forehead, ſhall be puniſhed together with them. And you <hi>Papiſts,</hi> I muſt deal plainly with you, and I muſt tell you, That you are the People that are departed from the Faith that was once delivered to the Saints, giving heed unto ſedu<g ref="char:EOLhyphen"/>cing ſpirits and doctrines of Devils, ſpeaking Lyes in Hypo<g ref="char:EOLhyphen"/>criſie, whereby many of your Conſciences come to be ſeared as with a Hot Iron: And you are forbidding Marriage, which was God's Ordinance in Paradiſe, before man fell; and the Prieſts of God under the Law were Married, and the Apoſtles of our Lord Jeſus Chriſt were many of them Married; and the Apoſtle <hi>Paul</hi> allowed of Marriage, and ſaid, <hi>Let</hi> a <hi>Biſhop be the Husband of one Wife;</hi> and <hi>its better to Marry then to Burn:</hi> And do not many of your Prieſts burn with Luſt? Let God's Witneſs in your Conſciences ariſe and anſwer: And they tell you, <hi>You muſt Abſtain from Meats on ſuch dayes as they in their own Wills have appointed for Faſting Dayes, and the next day after give Liberty to Exceſs of Eating and Drink<g ref="char:EOLhyphen"/>ing, and ſpending much of the Creatures out of the Fear of God, and give Liberty to Sports and Playes, whereby Youth comes to be Corrupted, and the Name of the Lord Blaſphemed;</hi> and call thoſe dayes <hi>Holy Dayes,</hi> and keep them as they ſay in Com<g ref="char:EOLhyphen"/>memoration of the Saints, whoſe Life they crucifie; for <hi>they that live in Pleaſures, crucifie the Juſts:</hi> And do not your Sins exceed the Sins of <hi>Sodom,</hi> which God overthrew? And not<g ref="char:EOLhyphen"/>withſtanding theſe things, you would be counted the <hi>Church of Chriſt;</hi> but you are ſeen to be of the Whore, the Falſe Church, and not the Lamb's Wife, your Fruits have made you mani<g ref="char:EOLhyphen"/>feſt.</p>
+            <pb n="9" facs="tcp:93839:6"/>
+            <p>And theſe things were upon me, and in the Love of God ſprung in my Soul to you wards, and I could not be clear till I was made willing to give them forth unto you: And if for my Teſtimony ye Envy me, or ſeek my Life, be it known unto you, <hi>I am not afraid of you;</hi> for my Life is in the Hand of the Lord, who is able to preſerve me, &amp; all whoſe Confidence is in him alone, to the giving up of their Outward Lives (unto the Outward Death); and our Inward Life is out of the Reach of all your Envy and Malice, its hid with God in Chriſt Jeſus, who ſaid, <hi>Love your Enemies;</hi> and if you were his Diſciples, you would obey his Commands, and then you would kill no man about Religion; but your Inquiſitions would fall, and that Murdering ſpirit in you that ſet them up.</p>
+            <closer>
+               <signed>
+                  <hi>From him who is a Lover of all your Souls, but a Hater of all your Deceit, who by many in Scorn is called a</hi> Quaker. John Vaughton.</signed>
+               <dateline>
+                  <hi>London,</hi> written in <date>the 2d Moneth, 1676.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Page 2. Line 23. for <hi>purpoſe</hi> read <hi>propoſe.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
